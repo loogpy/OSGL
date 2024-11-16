@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Placeholder Game",
+        "description": "A fun placeholder game to try out the launcher.",
+        "author": "Loogpy",
+        "python_file_url": "https://raw.githubusercontent.com/Loogpy/OSGL/main/placeholder.py",
+        "image_url": "https://raw.githubusercontent.com/Loogpy/OSGL/main/placeholder.png"
+    },
+    {
+        "name": "Another Game",
+        "description": "A second test game to showcase multiple entries.",
+        "author": "GameDev123",
+        "python_file_url": "https://raw.githubusercontent.com/Loogpy/OSGL/main/another_game.py",
+        "image_url": "https://raw.githubusercontent.com/Loogpy/OSGL/main/another_game.png"
+    }
+]
