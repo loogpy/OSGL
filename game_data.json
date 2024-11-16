@@ -1,0 +1,11 @@
+{
+    "games": [
+        {
+            "name": "game1",
+            "thumbnail": "game1.png",
+            "lastPlayed": "2024-11-16",
+            "progress": "level 2",
+            "status": "in_progress"
+        }
+    ]
+}
